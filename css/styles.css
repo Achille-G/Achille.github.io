@@ -557,11 +557,26 @@ progress {
   content: "— ";
 }
 
+.interest_section{
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
 }
 
+.img-interest-plongee{
+  max-width:20%;
+  height: auto;
+}
+
+.img-interest-parapente{
+  max-width:15%;
+  height: auto;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
